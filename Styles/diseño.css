@@ -1,0 +1,15 @@
+h1 {
+    font-family: "Times New Roman", Times, serif;
+font-size: 21px;
+letter-spacing: 0.4px;
+word-spacing: 1.6px;
+color: #000000;
+font-weight: normal;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: italic;
+font-variant: small-caps;
+text-transform: capitalize;
+}
+body {
+    color:#0d0246;
+}
